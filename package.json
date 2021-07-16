@@ -8,8 +8,8 @@
     "devStart": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Cyastis",
+  "license": "GPLv3.0",
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
